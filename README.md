@@ -1,0 +1,2 @@
+# supervisao_fraca
+Tarefa - TÓPICOS AVANÇADOS EM INTELIGÊNCIA COMPUTACIONAL 3
